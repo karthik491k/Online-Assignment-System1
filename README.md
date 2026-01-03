@@ -253,7 +253,6 @@ npm run build
 npm run preview
 ```
 
-## 🐛 Known Issues
 
 - File downloads use blob URLs (for mock purposes)
 - No file preview functionality yet
@@ -261,5 +260,5 @@ npm run preview
 
 ## ✨ Credits
 
-Built with ❤️ using React, Vite, Tailwind CSS, and modern web technologies.
+Built with  using React, Vite, Tailwind CSS, and modern web technologies.
 ```
